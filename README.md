@@ -1,1 +1,1 @@
-Qualitative and Geospatial analysis of EU construction sectors, including data manipulation, exploration, and visualization with Folium. Applied regression models to identify differences and make predictions.
+
